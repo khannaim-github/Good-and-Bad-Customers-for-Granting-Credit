@@ -1,5 +1,7 @@
 # Good-and-Bad-Customers-for-Granting-Credit
-# Aim : The banks with the intent of credit card were more focused on the number of customers using their credit service but the drawback of them not being able to pay back the credit in time was an issue that soon followed, a system was in need to effectively decide the credit limit to be allowed to a person based on his previous credit history. You will learn how to apply Logistic Regression to credibility of the customer. Also learn how to evaluate Logistic Regression model using various parameter like on Accuracy, Sensitivity, Specificity and area under the ROC curve.  Build a classification model using logistic regression to predict the credibility of the customer, in order to minimize the risk and maximize the profit of a bank. 
+
+# Aim : 
+The banks with the intent of credit card were more focused on the number of customers using their credit service but the drawback of them not being able to pay back the credit in time was an issue that soon followed, a system was in need to effectively decide the credit limit to be allowed to a person based on his previous credit history. You will learn how to apply Logistic Regression to credibility of the customer. Also learn how to evaluate Logistic Regression model using various parameter like on Accuracy, Sensitivity, Specificity and area under the ROC curve.  Build a classification model using logistic regression to predict the credibility of the customer, in order to minimize the risk and maximize the profit of a bank. 
 
 # Data Description 
 •	Customer ID: Unique identification of each customer 
